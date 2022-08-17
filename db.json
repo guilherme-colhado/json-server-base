@@ -6,6 +6,29 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "guic170602@gmail.com",
+      "password": "$2a$10$aSF5fjgJJqtZK9Y03fWrNO9v7/VzJgnHQWPAhdpmhzuiR0RjNhc7W",
+      "name": "Guilherme",
+      "age": "20",
+      "id": 2
+    }
+  ],
+  "books": [
+    {
+      "autor": "Davy Jones",
+      "livro": "Pimba",
+      "lancado": "No passado",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "autor": "Game",
+      "livro": "Cyberpunk",
+      "lancado": "No Futuro",
+      "userId": 2,
+      "id": 2
     }
   ]
 }
